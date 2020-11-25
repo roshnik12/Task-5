@@ -1,6 +1,6 @@
 # Task-5
-<ul><li>##JS-Task 5</li><br>
-<li>Get all the countries from Asia continent using Filter function</li>
+##JS-Task 5<br>
+<ul><li>Get all the countries from Asia continent using Filter function</li>
 <li>Get all the countries with population of less than 2 lacs using Filter function</li>
 <li>Print the following details name, capital, flag using forEach function</li>
 <li>Print the total population of countries using reduce function</li>
